@@ -1,0 +1,18 @@
+@media (min-width: 300px) {
+  .far.fa-arrow-alt-circle-down {
+    font-size: 36px;
+  }
+}
+
+@media (min-width: 576px) {
+  .far.fa-arrow-alt-circle-down {
+    font-size: 70px;
+  }
+}
+
+@media (min-width: 768px) {
+  .far.fa-arrow-alt-circle-down {
+    font-size: 96px;
+  }
+}
+

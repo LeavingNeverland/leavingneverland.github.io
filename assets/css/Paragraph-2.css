@@ -1,0 +1,26 @@
+@media (min-width: 300px) {
+  .par-2 {
+    font-size: 17px;
+  }
+}
+
+@media (min-width: 576px) {
+  .par-2 {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 768px) {
+  .par-2 {
+    font-size: 20px;
+  }
+}
+
+.par-2 {
+  border-left: 8.4px solid var(--bs-primary) ;
+  font-family: Quicksand, sans-serif;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
